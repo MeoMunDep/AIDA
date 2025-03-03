@@ -104,8 +104,10 @@ EVM privatekey
 _Note: Each row for each account_
 
 ### 3. Generate Wallet
+```txt
 python generate_wallet.py
 nano eth_private_keys.txt copy to datas.txt
+```
 
 ### 4. `proxies.txt` - 🌐 Proxy List (Optional)
 
