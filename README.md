@@ -92,30 +92,18 @@ This file controls the bot’s behavior. Below is an example configuration:
 
 ### 2. `datas.txt` - 🗂️ User Data
 
-- Fill the data for `datas.txt` file, get data from [here](https://t.me/KeoAirDropFreeNe/257/6879). This file contains user data in the following format:
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt
-query_id.../user...
-query_id.../user...
-query_id.../user...
+EVM privatekey
+EVM privatekey
+EVM privatekey
 ```
 
 _Note: Each row for each account_
 
-### 3. `wallets.txt` - 💼 Wallet Addresses
-
-- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-- Add your wallet addresses in the following format:
-
-```txt
-abc...xyz
-abc...xyz
-abc...xyz
-```
-
-_Note: Wallet updates are currently not supported._
-
-### 4. `proxies.txt` - 🌐 Proxy List (Optional)
+### 3. `proxies.txt` - 🌐 Proxy List (Optional)
 
 If you are using proxies, add them here. Leave the file blank if you are not using proxies. Supported formats:
 
@@ -147,7 +135,7 @@ _Note: each row for each account_
 
 ## Contact and Support
 
-- **Help me with your referral** [Referral Link]()
+- **Help me with your referral** [Referral Link](https://my.aidapp.com/?refCode=SQYpH_ay2_DJ9oB)
 - **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
 
 If you encounter any issues or have questions, feel free to reach out:
