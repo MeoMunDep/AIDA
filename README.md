@@ -75,7 +75,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 10,
   "doTasks": true,
-  "referralCode": ["SQYpH_ay2_DJ9oB", "89yAV139nNLLHIR", "PtAldMxl1kpVprj"]
+  "referralCodes": ["SQYpH_ay2_DJ9oB", "89yAV139nNLLHIR", "PtAldMxl1kpVprj"]
 }
 ```
 
@@ -88,7 +88,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
   - `doTasks`: Enable task completion.
-  - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
+  - `referralCodes`: Add your referral code (optional). Do not change it if you want to support me ^^
 
 ### 2. `privateKeys.txt` - 🗂️ User Data
 
