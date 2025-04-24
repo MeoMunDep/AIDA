@@ -77,7 +77,7 @@ create_default_configs() {
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1000,
   "doTasks": true,
-  "referralCode": ["SQYpH_ay2_DJ9oB", "89yAV139nNLLHIR", "PtAldMxl1kpVprj"]
+  "referralCodes": ["SQYpH_ay2_DJ9oB", "89yAV139nNLLHIR", "PtAldMxl1kpVprj"]
 }
 EOL
 }
