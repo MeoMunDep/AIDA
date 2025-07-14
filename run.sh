@@ -109,7 +109,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install --no-audit --no-fund --prefer-offline --force user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3
+npm install --force user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy ethers web3
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
